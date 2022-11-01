@@ -1,3 +1,4 @@
+import threading 
 import time
 def funk():
     s = 0
@@ -14,3 +15,6 @@ def funk2():
         print(a)
 
 funk2()
+
+
+  
